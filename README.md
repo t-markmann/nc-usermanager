@@ -2,7 +2,13 @@
 
 This tool manages Nextcloud users from a CSV file, which you exported from some other software or created with a spreadsheet software.
 
-Zip file with an executable for Windows is available here: https://get.edudocs.org/de/assets/nc-usermananger/ - If you have a Python3 environment with all the dependencies/modules installed, you can run the script without the build of course.
+Zip file with an executable for Windows is in the repository: click "code"--> "download zip" 
+
+or: https://github.com/t-markmann/nc-usermanager/archive/refs/heads/main.zip
+
+Unzip the file before executing the exe file. 
+
+If you have a Python3 environment with all the dependencies/modules installed, you can run the script without the exe-build of course.
 
 Screenshot:
 ![Screenshot from Windows commandline](https://github.com/t-markmann/nc-usermanager/blob/master/screenshot.png)
