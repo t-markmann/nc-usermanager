@@ -12,7 +12,9 @@ Screenshot:
 1. Download and extract the zip-file from https://get.edudocs.org/de/assets/nc-usermanager/
 
 2. Insert data:
-    * __config.xml__: Insert your cloud-admin credentials into file _config.xml_. The user must have admin permissions in your Nextcloud.
+    * __config.xml__:
+       * Insert your cloud-admin credentials into file _config.xml_. The user must have admin permissions in your Nextcloud.
+       * Specify the action you want to perform for the users: *disable, enabled or delete*
     * __users.csv__: Insert the user data into the file _users.csv_ or recreate it with the same columns in a spreadsheet software.
 
 3. Start the tool:
